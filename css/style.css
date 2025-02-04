@@ -29,5 +29,6 @@ body{
 .box:hover{
     transform: scale(1.1);
     filter: drop-shadow(0 0 2em #646cffaa);
+    border-color: 1px solid #646cffaa;
     cursor: pointer;
 }
