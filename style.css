@@ -1,10 +1,7 @@
-html{
+body{
     cursor: url('images/cursor.png'), auto;
 }
-body{
-    background-image: url('images/space.jpg');
-    background-size: cover;
-}
+
 #text{
     border-radius: 50%;
     display:flex;
