@@ -1,6 +1,7 @@
 body{
     background-image: url('images/space.jpg');
     background-size: cover;
+    cursor: url('cursor.png');
 }
 #text{
     border-radius: 50%;
@@ -29,3 +30,4 @@ body{
     transform: scale(1.1);
     filter: drop-shadow(0 0 2em #646cffaa);
 }
+
