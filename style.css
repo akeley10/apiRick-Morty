@@ -1,7 +1,7 @@
 body{
     background-image: url('images/space.jpg');
     background-size: cover;
-    cursor: url('cursor.png');
+    cursor: url('images/cursor.svg') 16 16, auto;
 }
 #text{
     border-radius: 50%;
